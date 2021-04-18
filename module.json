@@ -1,0 +1,37 @@
+{
+  "name": "delta-green-babele-de",
+  "title": "Translation: Deutsch (Delta Green)",
+  "description": "Deutsche Übersetzung von Call of Cthulhu 7th (HavlockV/CoC7-FoundryVTT) mit Babele -  Call of Cthulhu 7th (HavlockV/CoC7-FoundryVTT) german translation using Babele",
+  "version": "0.99.1",
+  "minimumCoreVersion" : "0.7.0",
+  "compatibleCoreVersion":"0.7.9",
+  "author": "Xithrim",
+  "esmodules": ["babele-register.js"],
+  "scripts": [],
+  "styles": [],
+  "dependencies": [
+    {
+      "name": "babele",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+      "version": "1.25"
+    },
+    {
+      "name": "deltagreen",
+      "type": "system",
+      "version": "0.9.9"
+    }
+  ],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "de.json"
+    }
+  ],
+  "system": "deltagreen",
+  "systemVersion": "0.9.9",
+  "url": "https://github.com/xithrim/delta-green-babele-de",
+  "manifest": "https://raw.githubusercontent.com/xithrim/delta-green-babele-de/master/module.json",
+  "download": "https://github.com/xithrim/delta-green-babele-de/archive/master.zip"
+}
