@@ -1,0 +1,10 @@
+{
+	"label": "Panzerung",
+	"entries": [
+		{
+			"_id":"0iBS0OdEMPN6WTsu",
+			"name":"Einsatzhelm",
+			"description":"<p>Dies ist ein Test. Adds its Armor Rating to any other armor.&nbsp; Effective only against melee weapons, thrown weapons, and unarmed attacks.&nbsp; Cannot be concealed.</p>",
+		}
+		]
+}
